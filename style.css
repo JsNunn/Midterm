@@ -1,0 +1,18 @@
+.wrapper{
+    height:200px;
+    width:500px;
+    background-color: aqua;
+    position:absolute;
+    border-color: solid greenyellow;
+    border-radius: 10%;
+}
+.box {
+    background-color: yellow;
+    position:absolute;
+    height:100px;
+    width:100px;
+    border: solid 5px;
+    border-radius: 10%;
+   
+    
+}
